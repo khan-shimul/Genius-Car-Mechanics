@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ipsa, quia accusamus officiis magni aliquam. Eligendi consequatur labore perferendis harum explicabo itaque eius voluptas quidem id asperiores, iusto, provident sapiente doloribus error ea possimus? Iusto quasi ipsum sit quo consequuntur!",
+        "price": 2000,
+        "time": 2,
+        "img": "https://i.ibb.co/7XnzQLC/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Engine check",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ipsa, quia accusamus officiis magni aliquam. Eligendi consequatur labore perferendis harum explicabo itaque eius voluptas quidem id asperiores, iusto, provident sapiente doloribus error ea possimus? Iusto quasi ipsum sit quo consequuntur!",
+        "price": 7000,
+        "time": 6,
+        "img": "https://i.ibb.co/bPm71Kc/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Spark plug replacement",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ipsa, quia accusamus officiis magni aliquam. Eligendi consequatur labore perferendis harum explicabo itaque eius voluptas quidem id asperiores, iusto, provident sapiente doloribus error ea possimus? Iusto quasi ipsum sit quo consequuntur!",
+        "price": 6000,
+        "time": 4,
+        "img": "https://i.ibb.co/94LzJFm/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Coolant flush",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ipsa, quia accusamus officiis magni aliquam. Eligendi consequatur labore perferendis harum explicabo itaque eius voluptas quidem id asperiores, iusto, provident sapiente doloribus error ea possimus? Iusto quasi ipsum sit quo consequuntur!",
+        "price": 3000,
+        "time": 3,
+        "img": "https://i.ibb.co/94LzJFm/3.png"
+    },
+    {
+        "id": 5,
+        "name": "Transmission service",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ipsa, quia accusamus officiis magni aliquam. Eligendi consequatur labore perferendis harum explicabo itaque eius voluptas quidem id asperiores, iusto, provident sapiente doloribus error ea possimus? Iusto quasi ipsum sit quo consequuntur!",
+        "price": 1000,
+        "time": 2,
+        "img": "https://i.ibb.co/9gtqqDd/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Wheel alignment",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ipsa, quia accusamus officiis magni aliquam. Eligendi consequatur labore perferendis harum explicabo itaque eius voluptas quidem id asperiores, iusto, provident sapiente doloribus error ea possimus? Iusto quasi ipsum sit quo consequuntur!",
+        "price": 5000,
+        "time": 4,
+        "img": "https://i.ibb.co/swfDtkc/6.png"
+    }
+]
