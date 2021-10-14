@@ -45,6 +45,7 @@ const useFirebase = () => {
     return {
         user,
         isLoading,
+        setIsLoading,
         signInUsignGoogle,
         logOut
     }
