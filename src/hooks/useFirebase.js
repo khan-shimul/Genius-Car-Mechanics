@@ -24,7 +24,9 @@ const useFirebase = () => {
     const logOut = () => {
         setIsLoading(true);
         signOut(auth)
-            .then(() => { })
+            .then(() => {
+                setUser(null)
+            })
             .finally(() => setIsLoading(false));
     }
 
